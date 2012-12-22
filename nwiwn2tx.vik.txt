@@ -1,0 +1,31 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   NLPAssignment1/.classpath
+#	new file:   NLPAssignment1/.project
+#	new file:   NLPAssignment1/.settings/org.eclipse.jdt.core.prefs
+#	new file:   NLPAssignment1/build/classes/ConvertFileToARFF.class
+#	new file:   NLPAssignment1/build/classes/hotel_deceptive
+#	new file:   NLPAssignment1/build/classes/hotel_truthful
+#	new file:   NLPAssignment1/build/classes/solution1/WEKA_HW1.class
+#	new file:   NLPAssignment1/hotel_reviews/hotel_deceptive
+#	new file:   NLPAssignment1/hotel_reviews/hotel_truthful
+#	new file:   NLPAssignment1/src/ConvertFileToARFF.java
+#	new file:   NLPAssignment1/src/solution1/WEKA_HW1.java
+#	new file:   NLPAssignment1/weka-src.jar
+#	new file:   NLPAssignment1/weka.jar
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	.metadata/
+#	NLPAssignmentOne/
+#	NLPFinalProject/
+#	TestPOS/
+#	stanford-postagger-2011-04-20.jar
+#	stanford-postagger.jar
+
